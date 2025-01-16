@@ -1,76 +1,64 @@
 # Cryptocurrency Theft Investigation: 88.3 ETH Stolen and Traced Through Tornado Cash and MEXC
 
 ## Executive Summary
-On August 1st, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) was stolen through unauthorized access to a cryptocurrency wallet. Through extensive blockchain analysis and collaboration with law enforcement, the stolen funds have been traced through Tornado Cash to MEXC Exchange.
+On August 1st, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) was stolen through unauthorized access to a cryptocurrency wallet. Through extensive blockchain analysis, the stolen funds were traced through Tornado Cash to MEXC Exchange, though law enforcement has concluded their investigation due to prosecutorial limitations.
 
 ## Key Details
 - **Amount Stolen**: 88.3 ETH
 - **Date of Theft**: August 1st, 2023
 - **Initial Theft Transaction**: [0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc](https://etherscan.io/tx/0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc)
 - **Thief's Wallet**: [0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8](https://etherscan.io/address/0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8)
-- **Current Status**: Active Investigation
-- **Law Enforcement Agencies Involved**: 
-  - United States Secret Service (USSS)
-  - Las Vegas Metropolitan Police Department (LVMPD)
-  - FBI Internet Crime Complaint Center (IC3)
+- **Current Status**: Law Enforcement Investigation Closed
+  - USSS case closed due to prosecutorial limitations
+  - LVMPD case closed
+  - Civil/private investigation options being explored
 
 ## Transaction Flow
 1. Initial unauthorized transfer from victim's wallet to thief's wallet
 2. Funds moved through Tornado Cash mixing service
-3. Final destination: MEXC Exchange accounts
+3. Funds mixed and distributed, becoming too diluted for criminal prosecution standards
+4. Some portions traced to MEXC Exchange accounts
 
 ## Evidence and Documentation
 
 ### Blockchain Analysis
 - Complete transaction flow documentation
-- Tornado Cash withdrawal tracking
-- Professional blockchain forensics reports
-- Exchange deposit tracing
+- Tornado Cash interaction records
+- Fund mixing and distribution analysis
+- Exchange deposit patterns identified
 
-### Law Enforcement Cooperation
-- FBI IC3 Complaint filed
-- USSS investigation initiated
-- LVMPD case opened
-- Exchange compliance team engagement
+### Investigation Findings
+- ChangeNow (non-custodial exchange) involvement confirmed
+  - No user information available due to platform nature
+  - Funds mixed with other transactions
+- Tornado Cash mixing complicates prosecution
+  - Unable to meet criminal evidence standards
+  - Multiple account distributions
 
 ### Exchange Evidence
 - MEXC cooperation documentation
-- [Legal cooperation requested through MEXC](https://www.mexc.com/support/requests/legal)
-- Transaction freeze attempts documented
-- Withdrawal pattern analysis
+- Transaction analysis records
+- Exchange compliance limitations noted
 
-## Technical Analysis
-Detailed blockchain analysis has conclusively traced the movement of funds:
-1. Initial unauthorized withdrawal
-2. Tornado Cash deposits and withdrawals
-3. MEXC exchange deposits identified
-4. Full transaction chain preserved
-
-## Current Investigation Status
-This case remains under active investigation with multiple law enforcement agencies. The repository maintains a clear chain of evidence while redacting sensitive information.
+## Current Status
+Law enforcement has concluded their investigation due to:
+1. Fund mixing through Tornado Cash creating unprovable assumptions
+2. Non-custodial exchange involvement limiting user information
+3. Evidence dilution below criminal prosecution standards
 
 ## Purpose
 1. Document the cryptocurrency theft investigation
 2. Maintain transparent record of fund movement
-3. Assist ongoing law enforcement investigations
+3. Preserve evidence for potential future actions
 4. Alert cryptocurrency community members
 5. Create public accountability
-
-## Contact Information
-For law enforcement and official inquiries, please contact:
-- Investigation Reference: IC3 Complaint #[redacted]
-- USSS Case #[redacted] 
-- LVMPD Case #[redacted]
-
-## Updates
-This repository is regularly updated with new findings and documentation as the investigation progresses.
 
 ## Related Resources
 - [Initial Theft Transaction](https://etherscan.io/tx/0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc)
 - [Thief's Wallet](https://etherscan.io/address/0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8)
-- [MEXC Legal Requests](https://www.mexc.com/support/requests/legal)
 - [Transaction Flow Analysis](./docs/transaction-flow.md)
+- [Investigation Status](./docs/investigation-status.md)
 
 ---
 
-*Note: This repository contains only public information. Sensitive details are shared directly with relevant authorities.*
+*Note: This repository contains only public information. While law enforcement investigations have concluded, documentation is maintained for potential civil actions and public record.*
