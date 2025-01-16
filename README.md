@@ -6,7 +6,8 @@ On August 1st, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) wa
 ## Key Details
 - **Amount Stolen**: 88.3 ETH
 - **Date of Theft**: August 1st, 2023
-- **Initial Transaction**: [0xd7bdf7d76cceedecb3ad5ac6855ca412b4dcc6a55c76b1501ab0d866e177d506](https://etherscan.io/tx/0xd7bdf7d76cceedecb3ad5ac6855ca412b4dcc6a55c76b1501ab0d866e177d506)
+- **Initial Theft Transaction**: [0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc](https://etherscan.io/tx/0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc)
+- **Thief's Wallet**: [0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8](https://etherscan.io/address/0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8)
 - **Current Status**: Active Investigation
 - **Law Enforcement Agencies Involved**: 
   - United States Secret Service (USSS)
@@ -14,7 +15,7 @@ On August 1st, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) wa
   - FBI Internet Crime Complaint Center (IC3)
 
 ## Transaction Flow
-1. Initial unauthorized transfer from victim's wallet
+1. Initial unauthorized transfer from victim's wallet to thief's wallet
 2. Funds moved through Tornado Cash mixing service
 3. Final destination: MEXC Exchange accounts
 
@@ -65,7 +66,8 @@ For law enforcement and official inquiries, please contact:
 This repository is regularly updated with new findings and documentation as the investigation progresses.
 
 ## Related Resources
-- [Etherscan Transaction Details](https://etherscan.io/tx/0xd7bdf7d76cceedecb3ad5ac6855ca412b4dcc6a55c76b1501ab0d866e177d506)
+- [Initial Theft Transaction](https://etherscan.io/tx/0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc)
+- [Thief's Wallet](https://etherscan.io/address/0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8)
 - [MEXC Legal Requests](https://www.mexc.com/support/requests/legal)
 - [Transaction Flow Analysis](./docs/transaction-flow.md)
 
