@@ -5,7 +5,7 @@ On July 28th, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) was
 
 ## Key Details
 - **Amount Stolen**: 88.3 ETH
-- **Date of Theft**: August 1st, 2023
+- **Date of Theft**: July 28th, 2023
 - **Initial Theft Transaction**: [0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc](https://etherscan.io/tx/0x094f01f9174845200e6324bf18a242e0b19ce7f058a4cb928144d22df8313bcc)
 - **Thief's Wallet**: [0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8](https://etherscan.io/address/0x4b9e0ddabad6dff604db3d827f5fa7e1c6952aa8)
 - **Current Status**: Cases Prematurely Closed
