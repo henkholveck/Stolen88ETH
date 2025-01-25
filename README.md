@@ -1,7 +1,7 @@
 # Cryptocurrency Theft Investigation: 88.3 ETH - A Case Study in Law Enforcement Failure
 
 ## Executive Summary
-On August 1st, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) was stolen through unauthorized access to a cryptocurrency wallet. Despite clear blockchain evidence and traceable fund movements, law enforcement demonstrated fundamental failures in investigating this crime, highlighting systemic issues in cryptocurrency theft response.
+On July 28th, 2023, 88.3 ETH (worth approximately $164,000 at time of theft) was stolen through unauthorized access to a cryptocurrency wallet. Despite clear blockchain evidence and traceable fund movements, law enforcement demonstrated fundamental failures in investigating this crime, highlighting systemic issues in cryptocurrency theft response.
 
 ## Key Details
 - **Amount Stolen**: 88.3 ETH
