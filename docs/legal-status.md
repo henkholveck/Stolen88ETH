@@ -2,8 +2,8 @@
 
 ## Active Investigations
 - FBI IC3 Complaint Filed
-- USSS Investigation Ongoing
-- LVMPD Case Active
+- USSS Investigation Close
+- LVMPD Case Closed
 - Exchange Compliance Cooperation
 
 ## Evidence Preservation
@@ -11,9 +11,6 @@
 - Exchange correspondence documented
 - Blockchain analysis preserved
 - Communication logs secured
-
-## Current Status
-Active investigation with multiple agencies engaged.
 
 ## Next Steps
 1. Continued exchange cooperation
