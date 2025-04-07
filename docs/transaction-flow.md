@@ -59,7 +59,7 @@
 - Compliance documentation provided
 
 ### Law Enforcement Actions
-- USSS investigation ongoing
+- USSS investigation closed due to lack of traceability of Tornado Cash
 - IC3 complaint tracking implemented
 - International coordination initiated
 
